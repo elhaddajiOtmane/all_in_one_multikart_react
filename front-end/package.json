@@ -78,7 +78,7 @@
     "redux-infinite-scroll": "^1.0.9",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
-    "resolve": "1.8.1",
+    "resolve": "1.22.8",
     "simple-react-validator": "^1.2.4",
     "slick-carousel": "^1.8.1",
     "smartmenus": "^1.1.0",
